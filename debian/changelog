@@ -1,0 +1,13 @@
+libtest-filename-perl (0.03-1.1) unstable; urgency=medium
+
+  * Non maintainer upload by the Reproducible Builds team.
+  * No source change upload to rebuild on buildd with .buildinfo files.
+
+ -- Holger Levsen <holger@debian.org>  Tue, 29 Dec 2020 03:54:02 +0100
+
+libtest-filename-perl (0.03-1) unstable; urgency=low
+
+  * Initial packaging release.
+    Closes: bug#750174.
+
+ -- Jonas Smedegaard <dr@jones.dk>  Mon, 02 Jun 2014 13:09:57 +0200
